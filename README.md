@@ -1,4 +1,4 @@
-# Getting Wiki Info
+# Getting Wiki Info program
 
 It's a simple program I built on Python that generates customized URL based on user input, webscrapes information from the person's wikipedia page, and returns the formatted information. 
 
