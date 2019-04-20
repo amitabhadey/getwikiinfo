@@ -37,7 +37,7 @@ Simply run the getwikiinfo.py script. You will be prompted with a simple interfa
 
 ## Author
 
-* **Amitabha Dey** Research Officer at http://devresonance.com. Freethinker. Comp Sci majored. Powered by coffee. Do not go gentle into that good night.
+* **Amitabha Dey** Research Officer at http://devresonance.com. Freethinker. Comp Sci majored. Powered by coffee. Do not go gentle into that good night. More of my rant at http://amitabhadey.com
 
 ## License
 
