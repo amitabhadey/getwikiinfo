@@ -4,15 +4,17 @@ It's a simple program I built on Python that generates customized URL based on u
 
 ## Getting Started
 
-Make sure that you have the required dependencies mentioned below installed in your setup, download the repository and run the getwikiinfo.py script. 
+1. Install the required dependencies
+2. Download the repository
+3. Run the getwikiinfo.py script
 
 ### Installing Dependencies
 
 You will need three libraries - tkinter (to build the GUI), requests (to send in HTTP requests), and Beautiful Soup (to parse the html file).
 
-Tkinter comes with Python by defaults
+Tkinter is included with Python by default
 
-You can pip install the other two. 
+You can pip install the other two libraries. 
 ```
 pip install requests
 ```
@@ -33,9 +35,9 @@ Simply run the getwikiinfo.py script. You will be prompted with a simple interfa
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) - parsing the HTML file
 
 
-## Authors
+## Author
 
-* **Amitabha Dey** Comp Sci graduate from BRAC University. I dabble in Python. 
+* **Amitabha Dey** Research Officer at http://devresonance.com. Freethinker. Comp Sci majored. Powered by coffee. Do not go gentle into that good night.
 
 ## License
 
